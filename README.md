@@ -6,6 +6,8 @@ This Tableau project provides an in-depth analysis of crime trends, patterns, an
 ## Objective
 The objective of this analysis is to look at the broader picture of crime in Los Angeles, progressively narrowing the focus to specific topics and insights. This approach enables a better understanding of the dataset and its potential.
 
+[Tableau Public Link](https://public.tableau.com/app/profile/shayan.razavi/viz/CrimeInLosAngelosv2/MainDashboardv2)
+
 ## Key Features
 
 ### Dashboards
