@@ -1,12 +1,12 @@
 # Crime in Los Angeles - Tableau Dashboard
 
+[Tableau Public Link](https://public.tableau.com/app/profile/shayan.razavi/viz/CrimeInLosAngelosv2/MainDashboardv2)
+
 ## Project Overview
 This Tableau project provides an in-depth analysis of crime trends, patterns, and demographics in Los Angeles. By visualizing data from the LAPD (Los Angeles Police Department), the project aims to uncover insights about crime severity, distribution, and temporal patterns to aid decision-making and awareness.
 
 ## Objective
 The objective of this analysis is to look at the broader picture of crime in Los Angeles, progressively narrowing the focus to specific topics and insights. This approach enables a better understanding of the dataset and its potential.
-
-[Tableau Public Link](https://public.tableau.com/app/profile/shayan.razavi/viz/CrimeInLosAngelosv2/MainDashboardv2)
 
 ## Key Features
 
