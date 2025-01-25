@@ -53,3 +53,11 @@ The objective of this analysis is to look at the broader picture of crime in Los
 3. Navigate through the dashboards for an interactive exploration of the visualizations and insights.
 
 ## Screenshots
+![Image 1](./images/tab1.png)
+![Image 2](./images/tab2.png)
+![Image 3](./images/tab3.png)
+![Image 4](./images/tab4.png)
+![Image 5](./images/tab5.png)
+![Image 6](./images/tab6.png)
+![Image 7](./images/tab7.png)
+![Image 8](./images/tab8.png)
