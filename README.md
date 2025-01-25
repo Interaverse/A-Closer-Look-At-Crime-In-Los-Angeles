@@ -40,7 +40,8 @@ The objective of this analysis is to look at the broader picture of crime in Los
 
 ## Data Sources
 - **Crime_Data_from_2020_to_Present**: Historical crime data from the LAPD.
-- **Foreign Born Latino (CaliforniaLatinoPopulation)**: Demographic data on foreign-born individuals in California.
+- **CaleforniaLatinoPopulation**: manually inputted data from migrationpolicy.org
+- **LatinoPieChart**: manually inputted data from migrationpolicy.org
 
 ## How to Use This Repository
 1. Clone the repository:
