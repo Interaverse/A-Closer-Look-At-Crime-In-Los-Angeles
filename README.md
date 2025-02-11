@@ -1,4 +1,4 @@
-# Crime in Los Angeles - Tableau Dashboard
+# A Closer Look At Crime In Los Angeles - Tableau Dashboard
 
 [Tableau Public Link](https://public.tableau.com/app/profile/shayan.razavi/viz/ACloserLookAtCrimeInLosAngeles/MainDashboardv2)
 
